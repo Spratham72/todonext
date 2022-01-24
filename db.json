@@ -1,0 +1,31 @@
+{
+  "todos": [
+    {
+      "id": 0
+    },
+    {
+      "todo": "Complete Assignment",
+      "id": 1
+    },
+    {
+      "todo": "next Js",
+      "id": 2
+    },
+    {
+      "todo": "Create Assignment",
+      "id": 3
+    },
+    {
+      "todo": "Study ",
+      "id": 4
+    },
+    {
+      "todo": "Breathe",
+      "id": 5
+    },
+    {
+      "todo": "Dance",
+      "id": 6
+    }
+  ]
+}
